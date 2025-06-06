@@ -1,6 +1,5 @@
 let total = 0;
 
-
 function adicionar() {
     let product = document.getElementById('produto').value;
     let productName = product.split('-')[0];
